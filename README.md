@@ -1,6 +1,6 @@
 
 # Facial Expression Recognizer 
-A built using tensorflow, Adam and Flask to set up a basic website on localhost port 5000
+A program built using tensorflow, Adam and Flask to set up a basic website on localhost port 5000
 that uses your video camera to identify what mood you're in. 
 
 To run it - ensure you have pipenv installed:
