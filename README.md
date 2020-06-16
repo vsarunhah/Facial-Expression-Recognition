@@ -5,7 +5,7 @@ that uses your video camera to identify what mood you're in.
 
 To run it - ensure you have pipenv installed:
 1. ```pipenv install```
-1. pipenv run python3 main.py
+1. ```pipenv run python3 main.py```
 
 ## Possible Issues
 If the webcam causes any issues, you can change the ```cv2.VideoCapture``` line in ```camera.py``` and pass in the path to any file
